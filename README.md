@@ -1,6 +1,6 @@
 # FPselector
 
 
-[![FPSelector](https://fpselectorguilherme.netlify.app/)](https://interfaceet.netlify.app)
+[![FPSelector](https://fpselectorguilherme.netlify.app/)
 
 
